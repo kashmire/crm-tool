@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/skippednote/greenHR/routing"
-	"github.com/skippednote/greenHR/storage"
+	"github.com/kashmire/greenHR/routing"
+	"github.com/kashmire/greenHR/storage"
 )
 
 func getPort() string {
